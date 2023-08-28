@@ -1,1 +1,1 @@
-# fib
+# Demo project- Fibonacci series
